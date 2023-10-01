@@ -10068,7 +10068,8 @@ MonoBehaviour:
     header: Fix UN Disaster
     body: The news cycle this weekend is focusing on the events at the UN, which
       were disastrous for the US. The country was criticised by both its enemies
-      and allies alike. Lots of delicate PR is required.
+      and allies alike, with muc of the criticism focused towards the President.
+      Lots of delicate PR is required.
     person: British PM
     hoursRequired: 5
   - id: MeetingWithAmbassador
